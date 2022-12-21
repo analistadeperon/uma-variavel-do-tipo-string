@@ -1,0 +1,1 @@
+# uma-variavel-do-tipo-string
